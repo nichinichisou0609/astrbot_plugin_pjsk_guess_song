@@ -10340,6 +10340,17 @@
             "characterType": "game_character"
           }
         ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0200_02",
+        "characters": [
+          {
+            "characterId": 12,
+            "characterType": "game_character"
+          }
+        ]
       }
     ]
   },
@@ -11853,6 +11864,17 @@
         "characters": [
           {
             "characterId": 2,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0226_02",
+        "characters": [
+          {
+            "characterId": 3,
             "characterType": "game_character"
           }
         ]
@@ -17992,6 +18014,28 @@
             "characterType": "game_character"
           }
         ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0352_02",
+        "characters": [
+          {
+            "characterId": 18,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0352_03",
+        "characters": [
+          {
+            "characterId": 25,
+            "characterType": "game_character"
+          }
+        ]
       }
     ]
   },
@@ -19247,6 +19291,17 @@
         "characters": [
           {
             "characterId": 5,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0374_02",
+        "characters": [
+          {
+            "characterId": 23,
             "characterType": "game_character"
           }
         ]
@@ -20935,6 +20990,17 @@
             "characterType": "game_character"
           }
         ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0410_01",
+        "characters": [
+          {
+            "characterId": 24,
+            "characterType": "game_character"
+          }
+        ]
       }
     ]
   },
@@ -21391,6 +21457,17 @@
           },
           {
             "characterId": 12,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0421_01",
+        "characters": [
+          {
+            "characterId": 11,
             "characterType": "game_character"
           }
         ]
@@ -23376,6 +23453,17 @@
             "characterType": "game_character"
           }
         ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0469_01",
+        "characters": [
+          {
+            "characterId": 20,
+            "characterType": "game_character"
+          }
+        ]
       }
     ]
   },
@@ -24098,6 +24186,39 @@
             "characterType": "game_character"
           }
         ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0484_01",
+        "characters": [
+          {
+            "characterId": 2,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0484_02",
+        "characters": [
+          {
+            "characterId": 3,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0484_03",
+        "characters": [
+          {
+            "characterId": 21,
+            "characterType": "game_character"
+          }
+        ]
       }
     ]
   },
@@ -24656,6 +24777,28 @@
             "characterId": 6,
             "characterType": "game_character"
           },
+          {
+            "characterId": 7,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0495_01",
+        "characters": [
+          {
+            "characterId": 6,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0495_02",
+        "characters": [
           {
             "characterId": 7,
             "characterType": "game_character"
@@ -25883,6 +26026,17 @@
             "characterType": "game_character"
           }
         ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0524_01",
+        "characters": [
+          {
+            "characterId": 1,
+            "characterType": "game_character"
+          }
+        ]
       }
     ]
   },
@@ -26798,6 +26952,17 @@
             "characterType": "game_character"
           }
         ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0548_01",
+        "characters": [
+          {
+            "characterId": 15,
+            "characterType": "game_character"
+          }
+        ]
       }
     ]
   },
@@ -26846,6 +27011,57 @@
           },
           {
             "characterId": 19,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 551,
+    "title": "ロストアンブレラ",
+    "jacketAssetbundleName": "jacket_s_551",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 7.686100006103516,
+    "musicTags": [
+      "all",
+      "school_refusal"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0551_01",
+        "characters": [
+          {
+            "characterId": 6,
+            "characterType": "outside_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "セカイver.",
+        "vocalAssetbundleName": "se_0551_01",
+        "characters": [
+          {
+            "characterId": 22,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 17,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 18,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 19,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 20,
             "characterType": "game_character"
           }
         ]
@@ -27209,6 +27425,61 @@
     ]
   },
   {
+    "id": 559,
+    "title": "おどりゃんせ",
+    "jacketAssetbundleName": "jacket_s_559",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 9.0,
+    "musicTags": [
+      "all",
+      "light_music_club"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0559_01",
+        "characters": [
+          {
+            "characterId": 1,
+            "characterType": "outside_character"
+          },
+          {
+            "characterId": 21,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "セカイver.",
+        "vocalAssetbundleName": "se_0559_01",
+        "characters": [
+          {
+            "characterId": 26,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 1,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 2,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 3,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 4,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 560,
     "title": "アイリッド",
     "jacketAssetbundleName": "jacket_s_560",
@@ -27445,6 +27716,108 @@
         "characters": [
           {
             "characterId": 21,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 571,
+    "title": "偽物人間40号",
+    "jacketAssetbundleName": "jacket_s_571",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 9.535699844360352,
+    "musicTags": [
+      "all",
+      "street"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0571_01",
+        "characters": [
+          {
+            "characterId": 3,
+            "characterType": "outside_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "セカイver.",
+        "vocalAssetbundleName": "se_0571_01",
+        "characters": [
+          {
+            "characterId": 25,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 9,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 10,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 11,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 12,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 572,
+    "title": "飾って",
+    "jacketAssetbundleName": "jacket_s_572",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 9.0,
+    "musicTags": [
+      "all",
+      "school_refusal"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0572_01",
+        "characters": [
+          {
+            "characterId": 9,
+            "characterType": "outside_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "セカイver.",
+        "vocalAssetbundleName": "se_0572_01",
+        "characters": [
+          {
+            "characterId": 20,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 23,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 17,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 18,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 19,
             "characterType": "game_character"
           }
         ]
@@ -27890,6 +28263,28 @@
             "characterType": "game_character"
           }
         ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0581_01",
+        "characters": [
+          {
+            "characterId": 13,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0581_02",
+        "characters": [
+          {
+            "characterId": 16,
+            "characterType": "game_character"
+          }
+        ]
       }
     ]
   },
@@ -28011,6 +28406,272 @@
           },
           {
             "characterId": 12,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 585,
+    "title": "ペンタトニック",
+    "jacketAssetbundleName": "jacket_s_585",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 8.25469970703125,
+    "musicTags": [
+      "all",
+      "idol",
+      "light_music_club",
+      "other",
+      "school_refusal",
+      "street",
+      "theme_park",
+      "vocaloid"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0585_01",
+        "characters": [
+          {
+            "characterId": 21,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 3,
+            "characterType": "outside_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "virtual_singer",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0585_02",
+        "characters": [
+          {
+            "characterId": 21,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 22,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 23,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 24,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 25,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 26,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "セカイver.",
+        "vocalAssetbundleName": "se_0585_01",
+        "characters": [
+          {
+            "characterId": 1,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 5,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 9,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 13,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 17,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 21,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "Leo/need ver.",
+        "vocalAssetbundleName": "se_0585_03",
+        "characters": [
+          {
+            "characterId": 1,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 2,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 3,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 4,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "MORE MORE JUMP！ ver.",
+        "vocalAssetbundleName": "se_0585_04",
+        "characters": [
+          {
+            "characterId": 5,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 6,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 7,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 8,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "Vivid BAD SQUAD ver.",
+        "vocalAssetbundleName": "se_0585_05",
+        "characters": [
+          {
+            "characterId": 9,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 10,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 11,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 12,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "ワンダーランズ×ショウタイム ver.",
+        "vocalAssetbundleName": "se_0585_06",
+        "characters": [
+          {
+            "characterId": 13,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 14,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 15,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 16,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "25時、ナイトコードで。ver.",
+        "vocalAssetbundleName": "se_0585_07",
+        "characters": [
+          {
+            "characterId": 17,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 18,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 19,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 20,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0585_01",
+        "characters": [
+          {
+            "characterId": 1,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0585_02",
+        "characters": [
+          {
+            "characterId": 5,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0585_03",
+        "characters": [
+          {
+            "characterId": 9,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0585_04",
+        "characters": [
+          {
+            "characterId": 13,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0585_05",
+        "characters": [
+          {
+            "characterId": 17,
             "characterType": "game_character"
           }
         ]
@@ -28512,6 +29173,17 @@
             "characterType": "game_character"
           }
         ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0606_01",
+        "characters": [
+          {
+            "characterId": 26,
+            "characterType": "game_character"
+          }
+        ]
       }
     ]
   },
@@ -28671,6 +29343,61 @@
           },
           {
             "characterId": 12,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 621,
+    "title": "東京サマーセッション",
+    "jacketAssetbundleName": "jacket_s_621",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 9.375,
+    "musicTags": [
+      "all",
+      "idol"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0621_01",
+        "characters": [
+          {
+            "characterId": 1,
+            "characterType": "outside_character"
+          },
+          {
+            "characterId": 3,
+            "characterType": "outside_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "セカイver.",
+        "vocalAssetbundleName": "se_0621_01",
+        "characters": [
+          {
+            "characterId": 25,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 5,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 6,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 7,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 8,
             "characterType": "game_character"
           }
         ]
@@ -28946,6 +29673,112 @@
     ]
   },
   {
+    "id": 629,
+    "title": "8.32",
+    "jacketAssetbundleName": "jacket_s_629",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 9.0,
+    "musicTags": [
+      "all",
+      "idol"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0629_01",
+        "characters": [
+          {
+            "characterId": 3,
+            "characterType": "outside_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "セカイver.",
+        "vocalAssetbundleName": "se_0629_01",
+        "characters": [
+          {
+            "characterId": 23,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 5,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 6,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 7,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 8,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 632,
+    "title": "Surges",
+    "jacketAssetbundleName": "jacket_s_632",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 7.686200141906738,
+    "musicTags": [
+      "all",
+      "street"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0632_01",
+        "characters": [
+          {
+            "characterId": 2,
+            "characterType": "outside_character"
+          },
+          {
+            "characterId": 21,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "セカイver.",
+        "vocalAssetbundleName": "se_0632_01",
+        "characters": [
+          {
+            "characterId": 24,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 9,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 10,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 11,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 12,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 633,
     "title": "庭師のおはなしによると",
     "jacketAssetbundleName": "jacket_s_633",
@@ -29032,6 +29865,29 @@
     ],
     "vocals": [
       {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0635_01",
+        "characters": [
+          {
+            "characterId": 21,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 41,
+            "characterType": "outside_character"
+          },
+          {
+            "characterId": 5,
+            "characterType": "outside_character"
+          },
+          {
+            "characterId": 1,
+            "characterType": "outside_character"
+          }
+        ]
+      },
+      {
         "musicVocalType": "sekai",
         "caption": "セカイver.",
         "vocalAssetbundleName": "se_0635_01",
@@ -29054,6 +29910,17 @@
           },
           {
             "characterId": 8,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "another_vocal",
+        "caption": "アナザーボーカルver.",
+        "vocalAssetbundleName": "an_0635_01",
+        "characters": [
+          {
+            "characterId": 5,
             "characterType": "game_character"
           }
         ]
@@ -29204,6 +30071,57 @@
     ]
   },
   {
+    "id": 645,
+    "title": "深海シティアンダーグラウンド",
+    "jacketAssetbundleName": "jacket_s_645",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 7.941199779510498,
+    "musicTags": [
+      "all",
+      "light_music_club"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0645_01",
+        "characters": [
+          {
+            "characterId": 22,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "セカイver.",
+        "vocalAssetbundleName": "se_0645_01",
+        "characters": [
+          {
+            "characterId": 22,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 1,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 2,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 3,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 4,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 646,
     "title": "透明なパレット",
     "jacketAssetbundleName": "jacket_s_646",
@@ -29255,6 +30173,30 @@
     ]
   },
   {
+    "id": 647,
+    "title": "SAN値直葬",
+    "jacketAssetbundleName": "jacket_s_647",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 9.0,
+    "musicTags": [
+      "all",
+      "vocaloid"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0647_01",
+        "characters": [
+          {
+            "characterId": 21,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 648,
     "title": "Life Will Change",
     "jacketAssetbundleName": "jacket_s_648",
@@ -29281,6 +30223,463 @@
           },
           {
             "characterId": 23,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 649,
+    "title": "サヨナラ天国また来て地獄",
+    "jacketAssetbundleName": "jacket_s_649",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 7.407100200653076,
+    "musicTags": [
+      "all",
+      "theme_park"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "sekai",
+        "caption": "セカイver.",
+        "vocalAssetbundleName": "se_0649_01",
+        "characters": [
+          {
+            "characterId": 13,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 21,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 14,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 15,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 16,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 650,
+    "title": "あの夏が飽和する。",
+    "jacketAssetbundleName": "jacket_s_650",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 9.0,
+    "musicTags": [
+      "all",
+      "school_refusal"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0650_01",
+        "characters": [
+          {
+            "characterId": 23,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 22,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "セカイver.",
+        "vocalAssetbundleName": "se_0650_01",
+        "characters": [
+          {
+            "characterId": 22,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 23,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 17,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 18,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 651,
+    "title": "ホワイトハッピー",
+    "jacketAssetbundleName": "jacket_s_651",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 9.0,
+    "musicTags": [
+      "all",
+      "vocaloid"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0651_01",
+        "characters": [
+          {
+            "characterId": 21,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 652,
+    "title": "カレシのジュード",
+    "jacketAssetbundleName": "jacket_s_652",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 9.0,
+    "musicTags": [
+      "all",
+      "vocaloid"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0652_01",
+        "characters": [
+          {
+            "characterId": 21,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 653,
+    "title": "パメラ",
+    "jacketAssetbundleName": "jacket_s_653",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 8.1899995803833,
+    "musicTags": [
+      "all",
+      "vocaloid"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0653_01",
+        "characters": [
+          {
+            "characterId": 3,
+            "characterType": "outside_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 654,
+    "title": "ラストラス",
+    "jacketAssetbundleName": "jacket_s_654",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 9.0,
+    "musicTags": [
+      "all",
+      "vocaloid"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0654_01",
+        "characters": [
+          {
+            "characterId": 21,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 655,
+    "title": "リリィララ",
+    "jacketAssetbundleName": "jacket_s_655",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 7.999899864196777,
+    "musicTags": [
+      "all",
+      "vocaloid"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0655_01",
+        "characters": [
+          {
+            "characterId": 21,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 656,
+    "title": "ブラッドドール",
+    "jacketAssetbundleName": "jacket_s_656",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 8.199999809265137,
+    "musicTags": [
+      "all",
+      "vocaloid"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0656_01",
+        "characters": [
+          {
+            "characterId": 21,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 663,
+    "title": "ヴィーナス",
+    "jacketAssetbundleName": "jacket_s_663",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 9.0,
+    "musicTags": [
+      "all",
+      "vocaloid"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0663_01",
+        "characters": [
+          {
+            "characterId": 24,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 664,
+    "title": "人マニア",
+    "jacketAssetbundleName": "jacket_s_664",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 8.600000381469727,
+    "musicTags": [
+      "all",
+      "theme_park"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0664_01",
+        "characters": [
+          {
+            "characterId": 24,
+            "characterType": "outside_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "セカイver.",
+        "vocalAssetbundleName": "se_0664_01",
+        "characters": [
+          {
+            "characterId": 26,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 13,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 14,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 15,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 16,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 666,
+    "title": "少女A",
+    "jacketAssetbundleName": "jacket_s_666",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 9.46150016784668,
+    "musicTags": [
+      "all",
+      "vocaloid"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0666_01",
+        "characters": [
+          {
+            "characterId": 22,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 667,
+    "title": "㋰責任集合体",
+    "jacketAssetbundleName": "jacket_s_667",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 9.4443998336792,
+    "musicTags": [
+      "all",
+      "vocaloid"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0667_01",
+        "characters": [
+          {
+            "characterId": 24,
+            "characterType": "outside_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 668,
+    "title": "ネクラチューンサーカス",
+    "jacketAssetbundleName": "jacket_s_668",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 9.0,
+    "musicTags": [
+      "all",
+      "vocaloid"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0668_01",
+        "characters": [
+          {
+            "characterId": 21,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 669,
+    "title": "げんてん",
+    "jacketAssetbundleName": "jacket_s_669",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 8.148900032043457,
+    "musicTags": [
+      "all",
+      "vocaloid"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0669_01",
+        "characters": [
+          {
+            "characterId": 25,
+            "characterType": "game_character"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 672,
+    "title": "ハウトゥー世界征服",
+    "jacketAssetbundleName": "jacket_s_672",
+    "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+    "fillerSec": 9.0,
+    "musicTags": [
+      "all",
+      "street"
+    ],
+    "vocals": [
+      {
+        "musicVocalType": "original_song",
+        "caption": "バーチャル・シンガーver.",
+        "vocalAssetbundleName": "vs_0672_01",
+        "characters": [
+          {
+            "characterId": 22,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 23,
+            "characterType": "game_character"
+          }
+        ]
+      },
+      {
+        "musicVocalType": "sekai",
+        "caption": "セカイver.",
+        "vocalAssetbundleName": "se_0672_01",
+        "characters": [
+          {
+            "characterId": 22,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 23,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 11,
+            "characterType": "game_character"
+          },
+          {
+            "characterId": 12,
             "characterType": "game_character"
           }
         ]
