@@ -16,11 +16,15 @@
   ```bash
   # 进入容器
   docker exec -it <你的容器名或ID> /bin/bash
-
+  #创建镜像源文件
+  在系统根目录下创建debian.sources文件，推荐使用清华镜像源（启用源码源）
+  #APT换源
+  docker cp /debian.sources <你的容器名或ID>:/etc/apt/sources.list.d/
   # 在容器内安装 ffmpeg (以Debian/Ubuntu为例)
   apt-get update && apt-get install -y ffmpeg
   ```
-
+  示例源：
+    <img width="1482" height="1044" alt="image" src="https://github.com/user-attachments/assets/72888726-91a7-42ad-ab6f-119571fd7687" />
 - **对于其他环境**：请根据您的操作系统（如 CentOS, Windows 等）使用对应的包管理器或从官网下载安装 `ffmpeg`。
 
 ## 3. 指令列表
